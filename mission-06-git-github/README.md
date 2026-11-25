@@ -41,4 +41,4 @@ Not applicable.
 ## 9. Commit details
 - Commit message: `Add learning section to root README`
 - Branch: `update-about`
-- Pull Request status: open for review unless/in until the instructor asks for a merge.
+- Pull Request status: merged into `main`.
