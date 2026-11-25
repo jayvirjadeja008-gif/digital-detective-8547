@@ -1,0 +1,21 @@
+Privacy-safe Terminal observation
+
+Repository: digital-detective-8547
+Practice folder: terminal-practice/
+
+Original file contents:
+First line of terminal practice.
+Second line of terminal practice.
+
+Observed practice files:
+- notes.txt
+- notes-copy.txt
+
+Observed listing with `ls -lh`:
+- Both files were about 67 bytes.
+
+Human-readable package-manager information:
+- Homebrew 7.0.15
+- 63 packages reported by brew list
+
+No usernames, absolute paths or private network information are included.
