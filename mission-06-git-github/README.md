@@ -35,7 +35,8 @@ Not applicable.
 - [Git workflow and branch notes](workflow.md)
 - [Git command glossary](git-glossary.md)
 - Updated root [README](../../README.md)
-- GitHub branch and Pull Request
+- GitHub branch: `update-about`
+- Pull Request: [#1 — Add learning summary to root README](https://github.com/jayvirjadeja008-gif/digital-detective-8547/pull/1)
 
 ## 9. Commit details
 - Commit message: `Add learning section to root README`
