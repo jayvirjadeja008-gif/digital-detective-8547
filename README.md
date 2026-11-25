@@ -30,3 +30,7 @@ python3 number_converter.py
 ## Completion summary
 
 This repository is being completed one mission at a time. Each mission is documented separately and committed and pushed before the next mission begins.
+
+## My Learning
+
+I have learned how to inspect and organize files with Terminal commands, and how to distinguish hardware, software and the stages of IPOS. I also practiced using Git to record changes, creating branches and preparing work for review through GitHub.
